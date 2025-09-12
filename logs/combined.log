@@ -1,0 +1,40 @@
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"mapache-api","timestamp":"2025-09-12T22:50:09.729Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"mapache-api","timestamp":"2025-09-12T22:50:33.890Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"sumapache-api","timestamp":"2025-09-12T22:51:43.240Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"mapache-api","timestamp":"2025-09-12T22:51:44.751Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"sumapache-api","timestamp":"2025-09-12T22:51:56.481Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"mapache-api","timestamp":"2025-09-12T22:51:57.998Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermapache-api","timestamp":"2025-09-12T22:52:13.589Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercadomapache-api","timestamp":"2025-09-12T22:52:16.534Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercado-mapache-api","timestamp":"2025-09-12T22:52:18.037Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercado-api","timestamp":"2025-09-12T22:52:29.857Z"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T22:52:37.773Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /favicon.ico","service":"supermercado-api","timestamp":"2025-09-12T22:52:37.861Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T22:54:29.908Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T22:55:24.508Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T22:56:07.625Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T22:57:47.507Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T22:59:34.366Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T23:00:05.127Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T23:00:06.006Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T23:01:20.299Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:01:21.233Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"supermercado-api","timestamp":"2025-09-12T23:04:43.932Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:04:58.616Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:07:09.734Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:09:08.561Z","userAgent":"PostmanRuntime/7.44.1"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercado-api","timestamp":"2025-09-12T23:14:21.852Z"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:14:29.337Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"GET /api/auth/roles","service":"supermercado-api","timestamp":"2025-09-12T23:18:42.483Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"GET /api/auth/users","service":"supermercado-api","timestamp":"2025-09-12T23:20:21.040Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"GET /api/users","service":"supermercado-api","timestamp":"2025-09-12T23:20:32.396Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:25:02.483Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:25:20.827Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:26:01.822Z","userAgent":"PostmanRuntime/7.44.1"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercado-api","timestamp":"2025-09-12T23:27:22.021Z"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercado-api","timestamp":"2025-09-12T23:27:32.194Z"}
+{"ip":"::1","level":"info","message":"GET /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:27:38.283Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:28:03.043Z","userAgent":"PostmanRuntime/7.44.1"}
+{"environment":"development","level":"info","message":"Server started successfully","port":"3000","service":"supermercado-api","timestamp":"2025-09-12T23:29:27.877Z"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:30:46.299Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"supermercado-api","timestamp":"2025-09-12T23:37:04.901Z","userAgent":"PostmanRuntime/7.44.1"}
